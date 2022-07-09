@@ -5,7 +5,7 @@
 -- | | \ \ (_) | |_) | | (_) >  <   / /_| |_| || | (_) |
 -- |_|  \_\___/|_.__/|_|\___/_/\_\ |____|\___/ |_|\___/
 --                                                      
---                              
+--              Script made by Invisible_                    
 --      If you want the cursor, look youtube for it 
 
 if game:IsLoaded() ~= true then
